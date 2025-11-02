@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bejing-corn87
+# Hi there, I'm the Blue Kiwi Dev
 
 ## About Me
 I'm a backend developer specialising in **Go** and **C++**.
