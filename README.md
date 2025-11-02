@@ -14,7 +14,7 @@ Currently learning **CSS** and **JavaScript** to sharpen my frontend skills.
 ---
 
 ## 📂 Featured Projects
-[Look at my website](https://beijing-corn87.github.io/projects)
+[Look at my website](https://bluekiwi.lol)
 
 ---
 
