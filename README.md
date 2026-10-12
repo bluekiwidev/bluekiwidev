@@ -16,7 +16,7 @@ _Jk, frontend is way too hard and time consuming... Maybe later™_
 ---
 
 ## 📂 Featured Projects
-[Look at my website](https://bluekiwi.lol)
+[Look at my website](https://mdmarkus.dev)
 
 ---
 
