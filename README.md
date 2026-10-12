@@ -5,6 +5,8 @@ I'm a backend developer specialising in **Go** and **C++**.
 Outside of coding, I enjoy **electrical engineering**, working with **Raspberry Pis** and **Arduinos**.  
 Currently learning **CSS** and **JavaScript** to grow my frontend skills.
 
+_Jk, frontend is way too hard and time consuming... Maybe later™_
+
 ---
 
 ## 🛠 Skills
