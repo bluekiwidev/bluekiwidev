@@ -10,7 +10,7 @@ _Jk, frontend is way too hard and time consuming... Maybe later™_
 ---
 
 ## 🛠 Skills
-- **Backend:** Go, C++
+- **Backend:** Go, C++, Rust-ish(working on it)
 - **Hardware & Electronics:** Raspberry Pi, Arduino
 
 ---
