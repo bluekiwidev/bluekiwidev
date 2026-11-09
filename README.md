@@ -21,4 +21,4 @@ _Jk, frontend is way too hard and time consuming... Maybe later™_
 ---
 
 ## 💡 Favourite Quote
-> *"The people that made the most money in the gold rush were selling shovels, not digging gold".*
+> *"It isn't my problem... Until it is".*
